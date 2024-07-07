@@ -19,7 +19,6 @@ const config = {
   baseUrl: '/',
   organizationName: 'DanAtLetsGame',
   projectName: 'DanAtLetsGame',
-  trailingSlash: false,
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -45,8 +44,6 @@ const config = {
         docs: {
           sidebarPath: './sidebars.js',
           routeBasePath: '/',
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
         },
         blog: false,
         theme: {
