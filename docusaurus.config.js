@@ -19,6 +19,7 @@ const config = {
   baseUrl: '/',
   organizationName: 'DanAtLetsGame',
   projectName: 'DanAtLetsGame.github.io',
+  deploymentBranch: 'main',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
