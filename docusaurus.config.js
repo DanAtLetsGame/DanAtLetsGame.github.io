@@ -19,7 +19,7 @@ const config = {
   baseUrl: '/',
   organizationName: 'DanAtLetsGame',
   projectName: 'DanAtLetsGame.github.io',
-  deploymentBranch: 'main',
+  deploymentBranch: 'live',
   trailingSlash: false,
 
   // GitHub pages deployment config.
