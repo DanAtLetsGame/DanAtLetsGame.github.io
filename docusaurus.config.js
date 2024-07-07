@@ -11,28 +11,15 @@ const config = {
   title: 'Lets Game!',
   tagline: '',
   favicon: 'img/letsgameicon.jpg',
-
-  // Set the production url of your site here
   url: 'https://letsgame.org',
-  // Set the /<baseUrl>/ pathname under which your site is served
-  // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
   organizationName: 'DanAtLetsGame',
   projectName: 'DanAtLetsGame.github.io',
   deploymentBranch: 'live',
   trailingSlash: false,
-
-  // GitHub pages deployment config.
-  // If you aren't using GitHub pages, you don't need these.
-  //organizationName: 'fa', // Usually your GitHub org/user name.
-  //projectName: 'docusaurus', // Usually your repo name.
-
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
 
-  // Even if you don't use internationalization, you can use this field to set
-  // useful metadata like html lang. For example, if your site is Chinese, you
-  // may want to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
     locales: ['en'],
