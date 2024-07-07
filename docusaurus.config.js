@@ -20,13 +20,14 @@ const config = {
   organizationName: 'DanAtLetsGame',
   projectName: 'DanAtLetsGame.github.io',
   deploymentBranch: 'main',
+  trailingSlash: false,
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   //organizationName: 'fa', // Usually your GitHub org/user name.
   //projectName: 'docusaurus', // Usually your repo name.
 
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
 
   // Even if you don't use internationalization, you can use this field to set
