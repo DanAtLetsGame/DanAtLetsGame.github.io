@@ -3,9 +3,9 @@ sidebar_position: 2
 slug: /rules
 ---
 
-## General
+The following rules apply to all users/members of LetsGame.org. Anyone not abiding by these rules will be banned from all LetsGame.org game servers, Discord, and from any other services LetsGame.org provides.
 
-The following rules apply to all users/members of LetsGame.org. Anyone not abiding by these rules will be banned from all LetsGame.org game servers, our Discord, and from any chat interactions on our site.
+## General
 
 - No harassment of any kind
 - No griefing
