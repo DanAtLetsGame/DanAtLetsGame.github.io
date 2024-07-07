@@ -13,7 +13,7 @@ const config = {
   favicon: 'img/letsgameicon.jpg',
 
   // Set the production url of your site here
-  url: 'https://DanAtLetsGame.github.io',
+  url: 'https://letsgame.org',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
