@@ -13,10 +13,13 @@ const config = {
   favicon: 'img/letsgameicon.jpg',
 
   // Set the production url of your site here
-  url: 'https://letsgame.org',
+  url: 'https://DanAtLetsGame.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
+  organizationName: 'DanAtLetsGame',
+  projectName: 'DanAtLetsGame',
+  trailingSlash: false,
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -67,7 +70,7 @@ const config = {
         items: [
           {
             href: 'https://discord.gg/XcZBaEmA38',
-            label: 'Our Discord',
+            label: 'Discord',
             position: 'right',
           },
         ],
@@ -92,7 +95,7 @@ const config = {
             title: 'External Links',
             items: [
               {
-                label: 'Our Discord',
+                label: 'Discord',
                 to: 'https://discord.gg/XcZBaEmA38'
               }
             ],
